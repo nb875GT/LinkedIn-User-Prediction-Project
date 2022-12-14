@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+pip install --upgrade pip
 import os
 os.chdir('C:\\Users\\nickb\\Python')
 from sklearn.linear_model import LogisticRegression
